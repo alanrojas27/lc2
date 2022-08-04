@@ -1,0 +1,35 @@
+img{
+    width: 10rem;
+    height: 10rem;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.sdi img{
+    margin: 2rem;
+    
+    
+}
+
+.sdi{
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+}
