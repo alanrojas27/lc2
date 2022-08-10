@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
   }
+  .abajo{
+    padding: 3rem;
+  }
   body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #aaaaaa;
